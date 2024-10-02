@@ -1,4 +1,5 @@
-import React from "react";
+// import React from "react";
+import './DoeAgora.css'
 
 function DoeAgora() {
   return <div>Faça sua Doação</div>;
